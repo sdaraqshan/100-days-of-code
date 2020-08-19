@@ -126,3 +126,23 @@ verbose=2 will just mention the number of epoch like this: Epoch[1/10]
 
 -Softmax is very useful because it converts the scores to a normalized probability distribution, which can be displayed to a user or used as input to other systems.
 For this reason it is usual to append a softmax function as the final layer of the neural network.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DAY 4:
+
+-Started my Day 4 with the Neural Networks and Deep Learning by deeplearning.ai.
+
+WEEK 1:
+
+-Got to know that we use Standard Neural Networks for House Prediction ,Advertisement Prediction.
+
+-Convolution Neural Networks are used for Image applications.
+
+-Sequence Data(Audio),Language Conversions(ex:English->French),Time Series are considered as 1D data and use Recurrent Neural Network.
+
+-Structured Data is a database of data in supervised learning.
+
+-Unstructured data consists of Audio,Image,text in supervised learning.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
