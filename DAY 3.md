@@ -49,7 +49,7 @@ When using validation_data or validation_split with the fit method of Keras mode
 
 -By setting verbose 0, 1 or 2 you just say how do you want to 'see' the training progress for each epoch.
 verbose=0 will show you nothing (silent)
-verbose=1 will show you an animated progress bar like this: [=================================]
+verbose=1 will show you an animated progress bar like this: [==================================]
 verbose=2 will just mention the number of epoch like this: Epoch[1/10]
 
 -Softmax is very useful because it converts the scores to a normalized probability distribution, which can be displayed to a user or used as input to other systems.
