@@ -44,7 +44,7 @@ It can be as simple as a step function that turns the neuron output on and off, 
 -Non-trainable parameters of a model are those that you will not be updating and optimized during training, and that have to be defined a priori, or passed as inputs.
 The example of such parameters are: the number of hidden layers. nodes on each hidden layer.
 
-- EPochs are "one pass over the entire dataset", used to separate training into distinct phases, which is useful for logging and periodic evaluation. 
+- Epochs are "one pass over the entire dataset", used to separate training into distinct phases, which is useful for logging and periodic evaluation. 
 When using validation_data or validation_split with the fit method of Keras models, evaluation will be run at the end of every epoch.
 
 -By setting verbose 0, 1 or 2 you just say how do you want to 'see' the training progress for each epoch.
