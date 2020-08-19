@@ -1,4 +1,4 @@
--Started my Day 4 with the Neural Networks and Deep Learning by deeplearning.ai .
+-Started my Day 4 with the Neural Networks and Deep Learning by deeplearning.ai.
 
 WEEK 1:
 
